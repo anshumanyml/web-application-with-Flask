@@ -1,0 +1,45 @@
+{
+    "_id": "5d42a7bdee3d34cad8d93366",
+    "index": 0,
+    "guid": "1119d27d-4bc0-4109-bb6b-2db1d605999d",
+    "isActive": True,
+    "balance": "$2,065.17",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Angelica Pugh",
+    "gender": "female",
+    "company": "CALCU",
+    "email": "angelicapugh@calcu.com",
+    "phone": "+1 (969) 503-2982",
+    "address": "299 Charles Place, Riverton, Northern Mariana Islands, 4331",
+    "about": "Culpa voluptate id voluptate cillum quis dolore sint. Dolore sint pariatur deserunt ullamco laborum voluptate velit ea incididunt ad. Commodo mollit ipsum qui ut mollit et exercitation culpa non voluptate. Et occaecat duis minim anim. Ut culpa aliquip eiusmod quis ea aute enim voluptate excepteur incididunt ad nostrud magna. Aliqua enim eiusmod cillum ex et cillum amet dolor cillum ea sit. Qui sunt proident quis elit eiusmod ipsum pariatur dolore amet reprehenderit non.\r\n",
+    "registered": "2014-12-26T10:48:17 -06:-30",
+    "latitude": -27.341028,
+    "longitude": -8.729237,
+    "tags": [
+      "eu",
+      "proident",
+      "aute",
+      "et",
+      "ad",
+      "ad",
+      "ipsum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cooley Quinn"
+      },
+      {
+        "id": 1,
+        "name": "Harriet Hogan"
+      },
+      {
+        "id": 2,
+        "name": "Tammie Henson"
+      }
+    ],
+    "greeting": "Hello, Angelica Pugh! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  }
